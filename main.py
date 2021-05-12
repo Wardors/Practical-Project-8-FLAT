@@ -177,8 +177,7 @@ while (nrh != 3 and nrm != 3):
         nrm = nrm + 1
         print("HM3HM3 SM2SM2")
 print("\n--------------------------------------------------")
-print(
-    "\n Example 1: In a truck there are 2 big boxes and 4 small boxes.\nOn top and beneath each big box there must be a small box after the unloading.\nSmall boxes cannot be unloaded if there is a big box on top.\nBig boxes cannot be unloaded if there is a small box on top.\nPlace the boxes so that it will be easier and safer to unload them.")
+print("\n Example 1: In a truck there are 2 big boxes and 4 small boxes.\nOn top and beneath each big box there must be a small box after the unloading.\nSmall boxes cannot be unloaded if there is a big box on top.\nBig boxes cannot be unloaded if there is a small box on top.\nPlace the boxes so that it will be easier and safer to unload them.")
 print("\n\n 0 - unloaded, 1 - bottom, 2 - middle, 3 - top \n 4 - 1st stack, 5 - 2nd stack \n")
 
 count = 0
